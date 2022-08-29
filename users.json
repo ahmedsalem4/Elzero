@@ -1,0 +1,27 @@
+ [
+    {
+        id:1,
+        userid:1,
+        userName : "ahmed",
+        userE:"ahmed@gmail.com",
+        userAge : "17",
+        userPhone:"010123456"
+    },
+    {
+        id:2,
+        userid:2,
+        userName : "salem",
+        userE:"salem@gmail.com",
+        userAge : "15",
+        userPhone:"011123456"
+    },
+    {
+        id:3,
+        userid:3,
+        userName : "mmazzika",
+        userE:"mmazzika@gmail.com",
+        userAge : "17",
+        userPhone:"012123456"
+    }
+
+]
